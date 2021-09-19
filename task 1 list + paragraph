@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Параграфы и списки</title>
+  </head>
+
+  <body>
+    <p> Здесь текст</p>
+    <p> I tut tekst</p>
+    <ul>
+      <li><a href="https://ru.hexlet.io">Первый элемент списка</a></li>
+      <li>Второй элемент списка</li>
+  </body>
+
+</html>
