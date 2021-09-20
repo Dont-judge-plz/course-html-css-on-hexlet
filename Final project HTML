@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моё описание</title>
+  </head>
+  <body>
+    <main>
+       <h1> Александр Зарыхта</h1>
+       <h2> intern QA </h2>
+       <section>
+         <h2>Образование</h2>
+         <ul>
+          <li>Школа № 2 Zaslavl, 2007–2018 (а) </li>
+          <li> БГУИР (бывш. МРТИ) '22, Minsk, 2018-2022 </li>
+         </ul>>
+       </section>
+        <section>
+          <h2>Навыки</h2>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>SQL</li>
+            <li>QA</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Дополнительная информация</h2>
+          <p>Стараюсь развиваться в области QA - изучаю основы HTML + CSS, прохожу курс по SQL и DB IBM.</p>
+          <p>Мне интересна данная сфера из-за возмножности делать что-то полезное, улучшать качество продукта.</p>
+        </section>
+
+
+
+
+
+    </main>
+  </body>
+</html>
